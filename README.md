@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabien suhas</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">I am a full stack developer with a passion for front end from France</h3>
 
 - 🔭 I have just completed my training in **the wagon**
 
