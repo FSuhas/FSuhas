@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fabien suhas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Food breaker](https://github.com/FSuhas/FOOD-BREAKER)
+- 🔭 I’m currently working on **completing my training at the wagon**
 
-- 🌱 I’m currently learning **react Js**
+- 🌱 I want to learn **about the React environment**
+
+- 👯 I am looking to continue the development of [Food Breaker](https://github.com/FSuhas/FOOD-BREAKER)
 
 - 📫 How to reach me **fsuhas@gmx.com**
 
