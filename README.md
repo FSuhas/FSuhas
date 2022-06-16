@@ -5,8 +5,6 @@
 
 - 🌱 I want to learn **about the React environment**
 
-- 👯 I am looking to continue the development of [Food Breaker](https://github.com/FSuhas/FOOD-BREAKER)
-
 - 📫 How to reach me **fsuhas@gmx.com**
 
 <h3 align="left">Connect with me:</h3>
