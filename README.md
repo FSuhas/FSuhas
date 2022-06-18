@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fsuhas@gmx.com**
 
-- ℹ️ About **https://foam-care-953.notion.site/Fabien-Suhas-Web-Development-657edf42769e42c785091cef13f0b3ec**
+- ℹ️ About me **https://vu.fr/pLHc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
