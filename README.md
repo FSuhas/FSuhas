@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fabien suhas</h1>
 <h3 align="center">I am a full stack developer with a passion for front end from France</h3>
 
-- 🔭 I have just completed my training in **the wagon**
+- 🔭 After 15 years in sales and marketing, I am proud and fresh out of training at Wagon #batch-860-paris.
 
-- 🌱 I want to learn **about the React environment**
+- 🌱 I want to consolidate my skills in Rails and train myself in the world of React Node Vu Typescripe by continuing to deepen my knowledge of Javascript.
+
+- 🏳 I have a great attraction for the front, from my past experiences, I am very interested in UI/UX, ergonomics, design.
+
+- 🚀 Motivated by this new universe, I learn and train myself with enthusiasm.
 
 - 📫 How to reach me **fsuhas@gmx.com**
 
-- ℹ️ About me **https://vu.fr/pLHc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
