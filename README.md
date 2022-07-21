@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabien suhas</h1>
-<h3 align="center">I am a full stack developer from France</h3>
+<h3 align="center">I am a full stack developer from France at Meaux</h3>
 
 - 🔭 After 15 years in sales and marketing, I am proud and fresh out of training at Wagon #batch-860-paris.
 
