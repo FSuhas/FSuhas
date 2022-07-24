@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabien suhas</h1>
 <h3 align="center">I am a full stack developer from France living in Meaux.</h3>
 
-- 🔭 After 15 years in sales and marketing, I am proud and fresh out of training at Wagon #batch-860-paris.
+- 🔭 After 15 years in sales and marketing, I am proud and fresh out of training at Le Wagon #batch-860-paris.
 
 - 🌱 I want to consolidate my skills in Rails and train myself in the world of React Node Vu Typescripe by continuing to deepen my knowledge of Javascript.
 
