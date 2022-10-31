@@ -1,16 +1,26 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%;" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%;" />
 </div> 
+ 
+# <div align="center">I'm Fabien, a full-time full-stack developer 👨‍ <br> 💻 working from France.  🚀</div>  
 
-<h2 align="center">I'm Fabien suhas <br> Full stack developer from France.</h2>
+<div align="center">
+  
+### ATM  
+🔭 I'm working on a mobile application to connect intermittents of the film world (extra, silhouette, talking silhouette, understudy, role) and casting agents on [Final Claps](https://github.com/Fsuhas/final-claps)  
+  
+### Seeking  
+🌱 I am currently listening to the market to find my first corporate experience, I am looking for a front-end developer, web integrator or full-stack position on RoR (Ruby on Rails) or React technologies.  
 
-# 💫 About Me:
+### Course  
+❓ After 15 years of business development in digital marketing in the BtoB sector, I am proudly graduating this July 2022 following a career change with the Wagon #batch-860-paris.  
 
-🔭 I'm listening to the market to find my first experience in a company, I'm looking for a position of front-end developer, web integrator or full-stack RoR (Ruby on Rails). <br><br>
-👯 At the moment I'm working on a mobile application to connect intermittents of the film world (extra, silhouette, talking silhouette, understudy, role) and casting agents. <br><br>
-🌱 After 15 years as a business development in digital marketing for the BtoB sector, I proudly graduated in July 2022 following a professional retraining from the Wagon #batch-860-paris. I continue to train in Ruby on Rails and started to learn React more specifically. <br><br>
-💬 Ask me about on ; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiensuhas)<br><br>
-
+### Learning  
+⚡ Of course, I'm still learning about Ruby on Rails. 
+I started to learn React, React router, Vue.js, Vite.js, Mangodb, Express ... and wish to progress in the MERN and MEVN stack.  
+</div> 
+<br>
+  
 # 💻 Tech Stack:
 
 <div align="center">
